@@ -22,13 +22,6 @@ function burgerFn() {
 }
 burgerFn ()
 
-
-
-
-
-
-
-
 function slidesFn () {
 const btnLeft = document.querySelector(".arrow__left")
 const btnRight = document.querySelector(".arrow__right")
